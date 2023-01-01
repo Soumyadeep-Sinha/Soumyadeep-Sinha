@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Open source projects.
 - My Website 🌐 -> https://soumyadeep-sinha.github.io/My-website/
 
+<img src="./mygif.gif" width="250" height="250"/>
+
 ![mygif](https://user-images.githubusercontent.com/91267634/210175151-7bb1b8d4-6d58-4da4-8a5d-4b90cdffe09e.gif)
 
 <!---
