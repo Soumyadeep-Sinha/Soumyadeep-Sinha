@@ -11,4 +11,5 @@ Soumyadeep-Sinha/Soumyadeep-Sinha is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumyadeep-Sinha&theme=onedark)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep-Sinha)](https://github.com/anuraghazra/github-readme-stats)
