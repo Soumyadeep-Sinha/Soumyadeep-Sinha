@@ -4,7 +4,7 @@
 - 👀 I’m interested in many things.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Open source projects.
-- My Website 🌐 -> https://soumyadeep-sinha.github.io/My-website/  
+- My Website 🌐 -> [https://soumyadeep-sinha.github.io/My-website/](https://soumyadeep-sinha.github.io/my-portfolio/)  
 
 <!---
 Soumyadeep-Sinha/Soumyadeep-Sinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
