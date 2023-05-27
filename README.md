@@ -5,9 +5,3 @@
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Open source projects.
 - [My Website 🌐 click here](https://soumyadeep-sinha.github.io/my-portfolio/)
-
-<!---
-Soumyadeep-Sinha/Soumyadeep-Sinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyadeep-Sinha&show_icons=true&theme=radical)
