@@ -4,9 +4,6 @@
 ### <div align="center">Thank you for visiting My profile. I am a Web Developer currently working on web projects. I am open to contribute on projects.</div>  
   
 
-- 🔭 I’m currently working on [STEALTH](https://gostealth.onrender.com/)  
-  
-
 - 📄 Know about my experiences [Resume](https://flowcv.com/resume/2921smd49c)  
   
 
